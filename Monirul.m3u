@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/71.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, GTV
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg” group-title=”Bangla”, MACHRANGA
+http://172.30.30.30/hls/masranga.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/400px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png” group-title=”Bangla”, COLORS BANGLA
+http://172.30.30.30/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png” group-title=”Bangla”, CHANNEL i
+http://172.30.30.30/hls/channeli.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/thumb/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/300px-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/500px-Star_Jalsha_logo_2023.png” group-title=”Bangla”, Star Jalsha
+http://172.30.30.30/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo=”data:image/jpeg;base64,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” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png” group-title=”Bangla”, Independent TV
+http://172.30.30.30/hls/indepen.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg” group-title=”Bangla”, Enter10 Bangla
+http://172.30.30.30/hls/enterr10.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png” group-title=”Bangla”, Sony Aath
+http://172.30.30.30/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo=”https://en.wikipedia-on-ipfs.org/I/Sangeet_bangla.jpg.webp” group-title=”Bangla”, Sangeet Bangla
+http://172.30.30.30/hls/sangeetbangla.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NmCa7YQhNasEQC7ZC19DdeLEUzmYc2zOHw&usqp=CAU” group-title=”Hindi”, & pictures
+http://172.30.30.30/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, Ekattur news
+http://172.30.30.30/hls/Gazi-TV.m3u8
