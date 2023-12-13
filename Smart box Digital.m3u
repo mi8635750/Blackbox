@@ -76,8 +76,8 @@ http://172.26.1.3:8089/amrbd/Sonyaath/chunks.m3u8
 http://172.26.1.3:8089/amrbd/GaanBangla/chunks.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sangeet Bangla
 http://172.26.1.3:8089/amrbd/Sangeet-Bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Ekattur News
+https://edge4.bioscopelive.com/hls/anonymous/rGRlfUL4HFiTR0rycdYH2w/1702479769/live-ekattor-tv-hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
