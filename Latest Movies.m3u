@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, Ekattur news
-http://172.30.30.30/hls/71.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, Ekattur news
-http://172.30.30.30/hls/71.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, Ekattur news
-http://172.30.30.30/hls/71.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, saalar
+https://abdullah.al-noman.workers.dev/0:/SalarSprint1080p%20HQ.mkv
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, aquaman 2
+https://abdullah.al-noman.workers.dev/0:/Aqua2HDTS1080p.mkv
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, dunki
+https://abdullah.al-noman.workers.dev/0:/1337xHD.Vip-Dunki%20(2023)%20MLSBD.Shop-%20Hindi%20HDTS%20Full%20Runtime%201080p.mkv
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png” group-title=”Bangla”, Ekattur news
 http://172.30.30.30/hls/71.m3u8
